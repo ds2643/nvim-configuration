@@ -34,3 +34,6 @@ let g:startify_custom_header = []
 " base16 color support
 let base16colorspace=256
 color base16-phd
+
+let g:rainbow_active = 1 "0 if you want to enable it later via :RainbowToggle
+
